@@ -10,6 +10,10 @@
   <name>springcloud-demo</name>
   <url>http://maven.apache.org</url>
 
+  <modules>
+    <module>eurekaserver</module>
+  </modules>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
